@@ -1,0 +1,2 @@
+python project9_classicalVsQuantum.py --classical
+python project9_classicalVsQuantum.py
